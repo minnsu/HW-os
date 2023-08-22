@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "stat.h": "c",
-        "file.h": "c",
-        "spinlock.h": "c",
-        "algorithm": "c",
-        "types.h": "c"
-    }
-}
