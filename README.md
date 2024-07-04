@@ -1,3 +1,1 @@
-# operating-system
-
-2023-Spring Operating System's homeworks codes
+# 2023-Spring 성균관대학교 운영체제
